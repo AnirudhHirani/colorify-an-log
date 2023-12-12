@@ -3,12 +3,12 @@
 ### Usage
 
 ```
-import { Log } from 'console-colors';
+import { danger, info, success } from "colorify-an-log";
 
 
-Log.success('Congratulations!');
-Log.danger('Mind your head!');
-Log.info('You see!');
+success('Congratulations!');
+danger('Mind your head!');
+info('You see!');
 
 
 ```
