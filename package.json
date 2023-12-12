@@ -1,5 +1,5 @@
 {
-  "name": "console-colors",
+  "name": "colorify-an-log",
   "version": "1.0.0",
   "description": "A library to import colors in your console logs",
   "main": "lib/index.js",
