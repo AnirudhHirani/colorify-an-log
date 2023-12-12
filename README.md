@@ -1,4 +1,4 @@
-# Coder Gyan colorize library
+# colorize library made by Anirudh and Nimesh
 
 ### Usage
 
