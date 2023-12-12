@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codersgyan/codersgyan-colorify.git"
+    "url": "git+https://github.com/AnirudhHirani/colorify-an-log.git"
   },
   "keywords": [
     "console log colors",
@@ -22,9 +22,9 @@
   "author": "Rakesh K <codersgyan@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codersgyan/codersgyan-colorify/issues"
+    "url": "https://github.com/AnirudhHirani/colorify-an-log/issues"
   },
-  "homepage": "https://github.com/codersgyan/codersgyan-colorify#readme",
+  "homepage": "https://github.com/AnirudhHirani/colorify-an-log.git#readme",
   "devDependencies": {
     "typescript": "^4.6.3"
   },
